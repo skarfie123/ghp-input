@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a7b5734.css",
-    "main.js": "/static/js/main.9c2ce349.js",
-    "static/js/787.53ac0aaf.chunk.js": "/static/js/787.53ac0aaf.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.9a7b5734.css.map": "/static/css/main.9a7b5734.css.map",
-    "main.9c2ce349.js.map": "/static/js/main.9c2ce349.js.map",
-    "787.53ac0aaf.chunk.js.map": "/static/js/787.53ac0aaf.chunk.js.map"
+    "main.css": "/ghp-input/static/css/main.9a7b5734.css",
+    "main.js": "/ghp-input/static/js/main.ceeada95.js",
+    "static/js/787.53ac0aaf.chunk.js": "/ghp-input/static/js/787.53ac0aaf.chunk.js",
+    "static/media/logo.svg": "/ghp-input/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ghp-input/index.html",
+    "main.9a7b5734.css.map": "/ghp-input/static/css/main.9a7b5734.css.map",
+    "main.ceeada95.js.map": "/ghp-input/static/js/main.ceeada95.js.map",
+    "787.53ac0aaf.chunk.js.map": "/ghp-input/static/js/787.53ac0aaf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a7b5734.css",
-    "static/js/main.9c2ce349.js"
+    "static/js/main.ceeada95.js"
   ]
 }
