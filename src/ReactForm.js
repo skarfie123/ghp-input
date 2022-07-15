@@ -1,24 +1,21 @@
-﻿import React from "react";
+import React from "react";
 class ReactForm extends React.Component {
   constructor(props) {
     super(props);
     this.state = { secret2: "" };
-
-    this.handleChange = this.handleChange.bind(this);
-    this.handleSubmit = this.handleSubmit.bind(this);
   }
 
-  handleChange(event) {
+  handleChange = (event) => {
     const target = event.target;
     this.setState({
       [target.name]: target.value,
     });
-  }
+  };
 
-  handleSubmit(event) {
+  handleSubmit = (event) => {
     alert("secret2: " + this.state.secret2);
     event.preventDefault();
-  }
+  };
 
   render() {
     return (
