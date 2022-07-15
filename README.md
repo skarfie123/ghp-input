@@ -9,3 +9,9 @@ Secret 2 is adapted for React, based on [these docs](https://reactjs.org/docs/fo
 ## Run Locally
 
 `npm start`
+
+## Build and Deploy
+
+See: <https://skarfie123.github.io/ghp-react/>
+
+`npm run deploy`
