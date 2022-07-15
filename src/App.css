@@ -45,3 +45,8 @@
 .column {
   flex: 50%;
 }
+
+.github {
+  height: 1em;
+  width: 1em;
+}
